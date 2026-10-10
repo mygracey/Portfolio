@@ -18,5 +18,3 @@ I am an experienced tech trainer with over 4 years of experience working with st
 ## My Projects ##
 *Tutor Finder application. Designed to help potential users find specialized subject tutors to help them in their learning journey*
 ![image]()
-* Tutor Finder Application *
-description: Designed to help potential users find subject specific tutors for their learning journey.
