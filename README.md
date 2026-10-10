@@ -1,2 +1,2 @@
 ## Portfolio
-* I am a Software Developer Trainer
+I am a Software Developer Trainer
