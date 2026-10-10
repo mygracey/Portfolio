@@ -16,5 +16,7 @@ I have also gained considerable experience with react Native in building and dep
 I am an experienced tech trainer with over 4 years of experience working with students from various educational background and social status to help acquire relevant tech skills.
 
 ## My Projects ##
+*Tutor Finder application. Designed to help potential users find specialized subject tutors to help them in their learning journey*
+![image]()
 * Tutor Finder Application *
 description: Designed to help potential users find subject specific tutors for their learning journey.
