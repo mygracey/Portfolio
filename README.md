@@ -6,13 +6,13 @@ I'm open to opportunities where I can contribute my development skills, share my
 <h3>Frontend Web Development</h3>
 I have experience in building and deploying responsive Frontend web applications using HTML, CSS, Javascript, Bootstrap, React Js, Firebase.
 
-✔Full Stack Web Developer
+<h3>Full Stack Web Developer</h3>
 I am also experienced in the use of server-side language like PHP and backend frame works like Django, Node Js and Express in backend Web developement.
 
-✔Mobile App Development 
+<h3>Mobile App Development</h3> 
 I have also gained considerable experience with react Native in building and deploying Mobile Apps although for training purposes
 
-✔Teaching/Training 
+<h3>Teaching/Training</h3> 
 I am an experienced tech trainer with over 4 years of experience working with students from various educational background and social status to help acquire relevant tech skills.
 
 ## My Projects ##
