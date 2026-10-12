@@ -29,7 +29,7 @@ I am an experienced tech trainer with over 4 years of experience working with st
    ![image](studentmanagementsystem-tsba.onrender.com_(Nest Hub Max).png)
 
 4. <h5>Utility Apps</h5>
-   This is a collection of every apps ranging from a Calculator, BMI-Calculator, Google search interface, Shopping list app.
+   This is a collection of every day apps ranging from a Calculator, BMI-Calculator, Google search interface, Shopping list app.
    ![image](utilityapps.png)
 
 5. <h5>Math Learning Educational App</h5>
