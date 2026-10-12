@@ -16,5 +16,12 @@ I have also gained considerable experience with react Native in building and dep
 I am an experienced tech trainer with over 4 years of experience working with students from various educational background and social status to help acquire relevant tech skills.
 
 ## My Projects ##
-*Tutor Finder application. Designed to help potential users find specialized subject tutors to help them in their learning journey*
-![image](tutorpoint.onrender.com_(Nest Hub Max).png)
+1. <h5>Tutor Finder application</h5>
+   Designed to help potential users find specialized subject tutors to help them in their learning journey.
+   ![image](tutorpoint.onrender.com_(Nest Hub Max).png)
+
+2. <h5>Starlite-Schoolapp</h5>
+   Designed to help process school fees payment online, and help visitor's make enquiry via a Contact form.
+   ![image](localhost_5173_(Nest Hub Max).png)
+
+3. Starlite-Schoolapp
