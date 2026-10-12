@@ -36,8 +36,8 @@ I am an experienced tech trainer with over 4 years of experience working with st
    This app features a collection of specialized Math subjects for ease of learners accessibility.
    ![image](mathlearningfun.onrender.com_(Nest Hub Max).png)
 
-##Contact Me##
-📍 Nigeria
-✉ graceagu0000@gmail.com
+<h2>Contact Me</h2>
+📍 Nigeria <br>
+✉ graceagu0000@gmail.com<br>
 📞+2348067852735 🟢+2348067852735
 
