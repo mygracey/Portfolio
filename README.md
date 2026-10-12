@@ -3,7 +3,7 @@ Hi, I'm Grace, Frontend Web Developer & Tech Educator with hands-on experience b
 I'm open to opportunities where I can contribute my development skills, share my knowledge, and continue growing as a           technology professional 
             
 ## My Skills ##
-#✔Frontend Web Development#
+##✔Frontend Web Development##
 I have experience in building and deploying responsive Frontend web applications using HTML, CSS, Javascript, Bootstrap, React Js, Firebase.
 
 ✔Full Stack Web Developer
