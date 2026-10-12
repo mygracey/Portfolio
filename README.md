@@ -30,7 +30,7 @@ I am an experienced tech trainer with over 4 years of experience working with st
 
 4. <h5>Utility Apps</h5>
    This is a collection of every apps ranging from a Calculator, BMI-Calculator, Google search interface, Shopping list app.
-   ![image](mygracey.github.io_utilityapps_(Nest Hub Max)(1).png)
+   ![image](utilityapps.png)
 
 5. <h5>Math Learning Educational App</h5>
    This app features a collection of specialized Math subjects for ease of learners accessibility.
